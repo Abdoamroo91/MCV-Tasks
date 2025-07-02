@@ -1,0 +1,14 @@
+F:\Projects\Tests\MCVTests\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+F:\Projects\Tests\MCVTests\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+F:\Projects\Tests\MCVTests\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+F:\Projects\Tests\MCVTests\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+F:\Projects\Tests\MCVTests\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+F:\Projects\Tests\MCVTests\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll

@@ -1,0 +1,13 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+#rocket {
+    transition: transform 2s ease-in;
+    font-size: 4rem;
+}
+
+.launched {
+    transform: translate(90vw, -50vh);
+}

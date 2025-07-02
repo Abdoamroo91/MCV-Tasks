@@ -1,0 +1,14 @@
+F:\Projects\Tests\MCVTests\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+F:\Projects\Tests\MCVTests\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+F:\Projects\Tests\MCVTests\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+F:\Projects\Tests\MCVTests\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+F:\Projects\Tests\MCVTests\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+F:\Projects\Tests\MCVTests\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll

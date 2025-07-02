@@ -1,0 +1,56 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 150px;
+    flex-direction: column;
+}
+.container .upperPanel{
+    width: 40%;
+    text-align: center;
+}
+.container .upperPanel p{
+    margin-top: 5%;
+}
+.container .upperPanel button{
+    margin-top: 5%;
+    padding: 10px 20px;
+    color: white;
+    background-color: #27a776;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+}
+.container .cards{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+.cards .card {
+    width: 22.5%;
+    overflow: hidden;
+}
+.cards .card img:hover {
+    transition: 0.35s ease-in-out;
+    scale: 1.2;
+    filter: brightness(0.5);
+
+}
+.cards .card img{
+    width: 100%;
+    border-radius: 10px;
+}
